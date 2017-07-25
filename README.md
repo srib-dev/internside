@@ -1,4 +1,5 @@
-# internside
+﻿# internside
+
 internside.srib.no  
 
 ^liten ^text ^blir ^mindre  
@@ -20,3 +21,8 @@ internside.srib.no
 markdown?
 
 &nbsp;
+
+internside.srib.no
+
+
+nå kobler vi oss opp mot git :)

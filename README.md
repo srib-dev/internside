@@ -6,7 +6,7 @@ internside.srib.no
 
 &nbsp;
 
-#stor tekst  
+# stor tekst  
 
 &nbsp;
 

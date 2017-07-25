@@ -1,0 +1,2 @@
+if (going to crash);
+	dont;
